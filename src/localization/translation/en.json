@@ -1,0 +1,12 @@
+{
+  "common": {
+    "noAccountYet": "Don't have an account?",
+    "signUp": "Sign Up",
+    "login": "Login"
+  },
+  "onBoardingScreen": {
+    "title": "Welcome to Loadigo!",
+    "subTitle": "Smarter Moves. Faster Deliveries.",
+    "description": "Book trusted transport, connect with reliable drivers, and track your delivery from pickup to destination."
+  }
+}

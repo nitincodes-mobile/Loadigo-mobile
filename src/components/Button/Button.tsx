@@ -8,7 +8,7 @@ interface ButtonProps {
 
 const Button = ({ title, onPress }: ButtonProps) => {
   return (
-    <ButtonContainer onPress={onPress}>
+    <ButtonContainer accessibilityRole="button" onPress={onPress}>
       <ButtonTitle>{title}</ButtonTitle>
     </ButtonContainer>
   );
